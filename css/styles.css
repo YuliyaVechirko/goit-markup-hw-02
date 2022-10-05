@@ -143,10 +143,10 @@ letter-spacing: 0.03em;
 }
 
 .section-profession {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.19;
+letter-spacing: 0.03em;
 }
 
 /* footer*/
@@ -154,10 +154,21 @@ footer {
     background-color: #2F303A;
 }
 
-.footer-address {
-    text-decoration: none;
-    color: var(--primary-white-color);
-    font-family: 'Roboto';
+.logo-footer {
+text-decoration: none;
+color: var(--primary-white-color);
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+}
+
+.address-footer {
+text-decoration: none;
+color: var(--primary-white-color);
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
@@ -166,9 +177,9 @@ letter-spacing: 0.03em;
 }
 
 .address-email-tel a {
-    color: rgba(255, 255, 255, 0.6);
-    text-decoration: none;
-    font-family: 'Roboto';
+color: rgba(255, 255, 255, 0.6);
+text-decoration: none;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
