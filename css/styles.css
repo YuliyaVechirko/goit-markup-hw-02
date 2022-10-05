@@ -14,7 +14,7 @@
     --primary-text-color: #757575;
     --title-text-color: #212121;
     --accent-color: #2196F3;
-    --primary-logo-color: #000000 
+    --primary-logo-color: #000000; 
 }
 
 body {
@@ -29,7 +29,7 @@ ul {
 
 /* HEADER */
 .page-header {
-    background-color: var(--primary-white-color)
+    background-color: var(--primary-white-color);
 }
 
 .logo {
@@ -204,7 +204,7 @@ color: var(--title-text-color);
 font-weight: 700;
 font-size: 18px;
 line-height: 2;
-letter-spacing: 0.06em
+letter-spacing: 0.06em;
 }
 
 .pages-info {
